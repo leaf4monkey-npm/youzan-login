@@ -14,7 +14,10 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/leaf4monkey-npm/youzan-login.git"
