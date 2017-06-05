@@ -1,6 +1,6 @@
 {
   "name": "youzan-login",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "youzan login",
   "main": "index.js",
   "scripts": {
